@@ -2,17 +2,7 @@
 
 Tech stack:
 
-Java 11
-gradle
-javalin framework
-jackson
-lombok
-slf4j
-
-junit
-mockito
-powermock
-
+Java 11, gradle, javalin framework, jackson, lombok, slf4j, junit, mockito, powermock
 
 -------------------------------------
 
