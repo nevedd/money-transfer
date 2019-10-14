@@ -14,6 +14,9 @@ mockito
 powermock
 
 
+-------------------------------------
+
+
 Instaliation:
 
 
@@ -23,6 +26,8 @@ In project directory execute
 
 java -jar money-transfer-1.0-SNAPSHOT.jar
 
+
+-------------------------------------
 
 Rest API:
 
